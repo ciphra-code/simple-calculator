@@ -1,2 +1,17 @@
-# simple-calculator
-This project is a simple command-line calculator that performs basic arithmetic operations. It was created while learning Python fundamentals.
+# Python Calculator
+
+My third Python mini project.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Square
+- Continuous menu
+- Exit program
+
+## Built with
+
+- Python
